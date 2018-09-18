@@ -1,5 +1,7 @@
 //Resident Evil Last Escape
 //Eduardo Guerrero Hernández
+//NUA - 145674
+//Grupo - A1
 //Proyecto Num. 1
 
 PFont fuente1;
